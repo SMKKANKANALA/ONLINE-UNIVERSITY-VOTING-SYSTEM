@@ -28,4 +28,4 @@ It reduces cheating and increases the fairness as well as voting.
 What does
 It is a interface to perform JUDICIARY operations remotely
 
-### written and developed by SAIMANOJ KUMAR KANKANALA @SMK2021
+### written and developed by SAIMANOJ KUMAR KANKANALA @SMKKANKANALA
